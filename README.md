@@ -1,7 +1,10 @@
 # Project1
 
 
-# Java CRUD 구현 프로그램 - 영단어 메모장(Create,Read,Update,Delete)
+## Java CRUD 구현 프로그램 - 영단어 메모장(Create,Read,Update,Delete)
+
+![Unknown](https://github.com/ksh01p/Project1/assets/114472498/64b481f4-28c8-4272-a5d1-970537e4eb41)
+
 
 ## CRUD Interface
 
