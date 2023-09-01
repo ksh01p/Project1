@@ -30,7 +30,10 @@ public class WordManager {
 		while(true) {
 			int menu = selectMenu();
 			//System.out.println(menu);	메뉴 스캔 확인용 
-			if(menu == 0 ) break;
+			if(menu == 0 ) {
+				System.out.print("종료되었습니다.");
+				break;
+			}
 			if(menu == 4) {
 				wordCRUD.addWord();
 			}
