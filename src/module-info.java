@@ -4,5 +4,5 @@
 /**
  * 
  */
-module WordMasterProject {
+module Project1 {
 }
