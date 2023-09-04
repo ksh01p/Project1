@@ -32,7 +32,7 @@ public class WordManager {
 			int menu = selectMenu();
 			//System.out.println(menu);	메뉴 스캔 확인용 
 			if(menu == 0 ) {
-				System.out.print("종료되었습니다.");
+				System.out.print("종료되었습니다. 다음에 또 만나요 ~");
 				break;
 			}
 			if(menu == 4) {
