@@ -62,6 +62,8 @@
 * * *
 
 <img width="230" alt="4  단어 수정 -2" src="https://github.com/ksh01p/Project1/assets/114472498/290688af-e79b-4e4e-9dd9-9a21134ea8d4">
+* * *
+
 
 ### '7. 파일 저장' 선택 시
 
