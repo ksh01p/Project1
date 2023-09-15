@@ -1,3 +1,6 @@
 1|apple|푸른 사과
 1|bus|버스
 1| car |자동차
+2| computer|컴퓨터
+3| Artificial Intelligence|인공지능
+2| develop |개발하다
